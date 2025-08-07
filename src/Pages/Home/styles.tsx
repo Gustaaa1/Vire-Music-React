@@ -52,7 +52,7 @@ button {
      transform: scale(1.1);
    }
 }
-/* fj */
+
 .Estrelas {
    display: flex;
    justify-content: center;
